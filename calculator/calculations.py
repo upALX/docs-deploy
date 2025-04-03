@@ -1,6 +1,6 @@
 # calculator/calculations.py
 
-def add(a, b) -> float:
+def add(a: float | int, b: float | int) -> float:
     """
     function to sum two float numbers.
 
