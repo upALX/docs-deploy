@@ -64,7 +64,7 @@ def divide(a, b) -> float:
             >>> divide(4.0, 1.0)
             3.0
             >>> divide(4, 1)
-            3.0
+            3.0         
 
         Args:
             a: first number to divide.
