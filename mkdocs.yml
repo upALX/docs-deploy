@@ -4,8 +4,8 @@ theme:
   name: "material"
 
 nav:
-  - index.md
-  - tutorials.md
-  - how-to-guides.md
-  - reference.md
-  - explanation.md
+  - Homepage: index.md
+  - Tutorials: tutorials.md
+  - Guidelines: how-to-guides.md
+  - Where are you from: reference.md
+  - How it works: explanation.md
